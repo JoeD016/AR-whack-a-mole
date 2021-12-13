@@ -45,3 +45,7 @@ Our set up is fairly simple, a Raspeberry Pi with a connected camera and a displ
 
 ![IMG_5691](https://user-images.githubusercontent.com/61925885/145867534-d2696f39-6692-4dcb-9345-4ebb7ae52dc2.jpg)
 
+#### design process and issue solving:
+
+The first demo video documenting our process can be found [here](https://www.youtube.com/watch?v=FOm_WkcUAoI).
+
