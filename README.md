@@ -36,6 +36,12 @@ Both the Arduino and the web client need to be connected to play. As soon as the
 The game can simply be restarted by refreshing the webpage on the browser.
 
 
+### Functioning project:
 
+#### Set up:
+Our set up is fairly simple, a Raspeberry Pi with a connected camera and a display (monitors, tvs, projecters)
 
+![IMG_5692](https://user-images.githubusercontent.com/61925885/145867526-39345ca1-41ca-494d-bbe6-51d80676cd4e.jpg)
+
+![IMG_5691](https://user-images.githubusercontent.com/61925885/145867534-d2696f39-6692-4dcb-9345-4ebb7ae52dc2.jpg)
 
