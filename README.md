@@ -45,7 +45,11 @@ Our set up is fairly simple, a Raspeberry Pi with a connected camera and a displ
 
 ![IMG_5691](https://user-images.githubusercontent.com/61925885/145867534-d2696f39-6692-4dcb-9345-4ebb7ae52dc2.jpg)
 
-#### design process and issue solving:
+#### Design Process and Issue Solving:
 
 The first demo video documenting our process can be found [here](https://www.youtube.com/watch?v=FOm_WkcUAoI).
+
+In the game part, we manualy designed our "mole" in pixels and we tricked its position in the gameplay once it get hits to achieve the hit feedback. In the OpenCv part, we use Pyautogui to move the cursor along with the detected hand-pose. 
+
+All components functions well in the video but if we combine them together, the GPU inside the Raspberry Pi will just crash.
 
