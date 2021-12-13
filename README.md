@@ -16,6 +16,24 @@ After a semester studying all kinds of sensers that can be used in an interactiv
 ### The structure of the interaction:
 ![Screen Shot 2021-12-13 at 1 14 20 PM](https://user-images.githubusercontent.com/61925885/145866138-4fcb48c6-d354-4307-a83b-02878c5d5347.png)
 
+### How to Play:
+
+#### Player on Arduino
+Controls the snake, chases the food.
+The person playing on the Arduino will see a real-time game view on the screen and control the position of the hammer use the position of their own hand and use gesture control to manipulation hammer’s movement.
+
+#### Player on the Computer
+Places foods, challenges the snake.
+The person playing on the computer will see a real-time game view on the webpage and can place the mole (in green) anywhere on the board. Also, the position of the hammer will also be synchronized on the screen.
+
+#### Rules
+Only one mole can be present on the board at any moment. If the time run up then the game end
+
+#### Starting the Game
+Both the Arduino and the web client need to be connected to play. As soon as the player on Arduino presses the joystick, the game will start.
+
+#### Restarting the Game
+The game can simply be restarted by refreshing the webpage on the browser.
 
 
 
