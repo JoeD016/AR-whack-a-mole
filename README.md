@@ -57,7 +57,7 @@ Since the multiplayer version of the Whack-a-Mole actually reduces game’s play
 
 The attack animation is removed because raspberry cannot run PYGAME and OpenCV at the same time. In comparison, a ubuntu computer can successfully run our game smoothly with animation and attack effect). Maybe we need better device.
 
-## Final video Demo can be found [here]().
+## Final video Demo can be found [here](https://www.youtube.com/watch?v=ChC1JHQ36nM).
 
 ## Reflections on process:
 We should've think more thoroughly about the capability of our device, what we want to create is, in the first place, limited by the device we have on hand. We found it out after we have already code the game in Pygame and draw our attack animation tick by tick. Overall we wouldn't say this is a wast of time, but it does not contribute to our project. If we would know it sooner, we will have more time adding other sensors to make a more interesting interaction.
